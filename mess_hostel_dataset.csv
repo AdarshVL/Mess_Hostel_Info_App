@@ -1,0 +1,4 @@
+Mess_ID,Mess_Name,Location,Daily_Menu,Monthly_Charges(INR),Quality_Rating(1-5),Room_ID,Room_Type,Monthly_Rent(INR),Facilities,Owner_Contact,Pictures_Link
+1,Shree Mess,Nagpur - Near VNIT,"Dal, Rice, Roti, Sabzi, Salad",2500,4,101,Single Sharing,5000,"WiFi, Laundry, Study Table",9876543210,https://example.com/mess1.jpg
+2,Maharaja Tiffins,Nagpur - Sitabuldi,"Idli, Dosa, Sambhar, Chutney",2200,3,201,Double Sharing,3500,"WiFi, Common Kitchen",9123456780,https://example.com/mess2.jpg
+3,Campus Delight,Nagpur - Dharampeth,"Paneer Curry, Jeera Rice, Roti, Sweet",2800,5,301,Triple Sharing,2500,"WiFi, Mess Attached, Parking",9988776655,https://example.com/mess3.jpg
