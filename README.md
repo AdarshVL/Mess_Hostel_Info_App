@@ -30,7 +30,7 @@ This project provides **direct access to mess charges, daily menus, hostel room 
 
 ## 📂 Dataset
 A sample dataset is included:  
-👉 [View Dataset](https://github.com/AdarshVL/Cyber_Security_Project/blob/main/sample_log_dataset.csv)
+👉 [View Dataset](https://github.com/AdarshVL/Mess_Hostel_Info_App/blob/main/mess_hostel_dataset.csv)
 This contains:
 - Mess details (name, location, daily menu, monthly charges, ratings)
 - Hostel details (room type, rent, facilities, pictures, owner contact)
