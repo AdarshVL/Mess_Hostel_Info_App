@@ -140,3 +140,24 @@ CampusConnect/
 ✔ Tracks inquiries and payments from students.
 
 ---
+
+## 👨‍💻 Author
+
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI | Data Science | Computer Vision Enthusiast
+
+🔗 [GitHub](https://github.com/AdarshVL) 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
+
+🔹Expandable — anyone can contribute new modules
+
+🔹Built for terminal-first learners and open-source enthusiasts
+
+----
