@@ -1,6 +1,6 @@
 # 🏫 Mess & Hostel Info App 🍲
 
-# 🌐 CampusConnect — Smart Mess & Hostel Information System 
+# 🌐 CampusConnect - Smart Mess & Hostel Information System 
 
 CampusConnect is a **personalized web application** designed for **students, hostel/PG owners, and mess providers**.  
 It centralizes information like **mess charges, daily menus, room rents, facilities, photos, and direct contacts**,  
