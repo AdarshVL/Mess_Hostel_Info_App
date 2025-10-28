@@ -150,7 +150,7 @@ CampusConnect/
 
 💼 AI | Data Science | Computer Vision Enthusiast
 
-📧 [Email].(adarshlilhare@example.com)
+📧 [Email](adarshlilhare@example.com)
 
 🐙 [GitHub](https://github.com/AdarshVL) 
 
